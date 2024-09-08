@@ -55,7 +55,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ danielLucasDeveloper" target="_blank">
+  <a href="www.linkedin.com/in/danielLucasDeveloper" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="daniellucas6069" target="_blank">
